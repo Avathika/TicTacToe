@@ -1,0 +1,1 @@
+This is a basic Tic tac toe game developed in Java. It is meant to be run in the console. However, a basic swing application is also created with Griffyindor and Syltherin images depicting X and O. The swing application is not linked to the logic.
